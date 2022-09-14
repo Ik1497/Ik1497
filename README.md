@@ -5,6 +5,6 @@ Welcome to my GitHub, here you can find my repositories or repositories I help w
 <span>
 <div align="center">
   
-  [Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Streamer.bot Documentation](https://wiki.streamer.bot) | [Twitter](Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+  [Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Streamer.bot Documentation](https://wiki.streamer.bot) | [Twitter](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
   
 </div>
