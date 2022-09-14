@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="assets/social_image/Ik1497.png" alt="Ik1497 Social Image" width="70%"></img>
   
   <h1>Ik1497's Official GitHub</h1>
 
