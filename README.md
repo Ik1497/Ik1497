@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Ik1497's Offical GitHub</h1>
+  <h1>Ik1497's Official GitHub</h1>
 
   Welcome to my GitHub, here you can find my repositories or repositories I help work on!
   
