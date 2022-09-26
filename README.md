@@ -5,6 +5,6 @@
 
   Welcome to my GitHub, here you can find my repositories or repositories I help work on!
   
-[Website](https://ik1497.github.com)
+[Website](https://ik1497.github.io)
   
 </div>
