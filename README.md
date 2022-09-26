@@ -5,6 +5,6 @@
 
   Welcome to my GitHub, here you can find my repositories or repositories I help work on!
   
-  [Discord](https://github.com/Ik1497/Ik1497/blob/main/404.md) | [Streamer.bot Documentation](https://wiki.streamer.bot) | [Twitter](https://github.com/Ik1497/Ik1497/blob/main/404.md) 
+[Website](https://ik1497.github.com)
   
 </div>
